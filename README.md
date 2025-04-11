@@ -5,3 +5,7 @@
 
 react 배포 (빌드후 배포 주소)
 https://crystal960906.github.io/covernat/
+
+
+자료구조 item1.ts
+https://github.com/dino-21/covernat_js_ver/blob/main/src/db/item1.js
